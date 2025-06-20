@@ -1,0 +1,1 @@
+copy /Y ".\FalloutCustom.ini" "%USERPROFILE%\Documents\My Games\FalloutNV\"

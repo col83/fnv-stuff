@@ -1,0 +1,1 @@
+Here will gather dust various things that I use when playing fnv
