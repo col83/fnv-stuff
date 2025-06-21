@@ -1,0 +1,80 @@
+coc goodsprings
+
+;weapon & armor
+
+player.Additem NVDLC05WeapKatanaCustom
+player.equipitem NVDLC05WeapKatanaCustom
+
+player.AddItem NVDLC05ModNVKatanaAuthenticBlade
+player.AddItem NVDLC05ModNVKatanaBalancedGrip
+player.AddItem NVDLC05ModNVKatanaProtectiveSheath
+
+player.Additem NVDLC03AuralStealthsuit
+player.equipitem NVDLC03AuralStealthsuit
+player.Additem ChineseStealthHelmet
+player.equipitem ChineseStealthHelmet
+
+;stats
+
+player.forceav sneak 50
+
+;special
+
+player.modav strength 5
+player.modav endurance 5
+player.modav agility 5
+player.modav luck -4
+
+;perks
+
+;Bloody Mess
+player.addperk 00094EBA
+
+;Toughness
+player.addperk 00031DE0
+player.addperk 00031DE0
+
+;Quick Draw
+player.addperk 001377FE
+
+;Strong Back
+player.addperk 00031DDE
+
+;Terrifying Presence
+player.addperk 0010C6CD
+
+;Finesse
+player.addperk 00094EC1
+
+;Life Giver
+player.addperk 00031DB1
+
+;Robotics Expert
+player.addperk 00031DC2
+
+;Silent Running
+player.addperk 00031DB3
+
+;Unstoppable Force
+player.addperk 00165447
+
+;Light Step
+player.addperk 00031DB7
+
+;Purifier
+player.addperk 00135F75
+
+;Action Boy
+player.addperk 00031DBA
+
+;Better Criticals
+player.addperk 00031DBB
+
+;Ninja
+player.addperk 00031DCC
+
+;Slayer
+player.addperk 00165446
+
+;Nerves of Steel
+player.addperk 000E2C49
