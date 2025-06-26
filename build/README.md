@@ -1,5 +1,3 @@
-I don't know why this would be useful to anyone but me.  \(0_0)\
-
 This repository contains scripts for creating standalone mod packages that should only be installed manually. Such as - "jip ln", "xnvse", "istewie tweaks" and similar mods.
 
 Scripts work like this - at startup it recursive takes all files from a particular FOLDER with FOLDERS of mods and copies them into one united folder. Then the script calls the 7z archiver file and packs them (files) into an archive with the desired name.
@@ -17,4 +15,4 @@ The variable %SYSTEMDRIVE% means the PATH or the LETTER of the disk on which you
 
 This variable is a system variable.
 
-You don't need to change this variable. It will be enough to change the path to the game directory after the first '\' symbol.
+You don't need to change this variable.
