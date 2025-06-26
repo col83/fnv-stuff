@@ -17,4 +17,4 @@ The variable %SYSTEMDRIVE% means the PATH or the LETTER of the disk on which you
 
 This variable is a system variable.
 
-You don't need to change this variable. It will be enough to change the path to the game directory after the first ""\"" symbol.
+You don't need to change this variable. It will be enough to change the path to the game directory after the first '\' symbol.
