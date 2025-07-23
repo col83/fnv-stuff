@@ -1,9 +1,6 @@
 This repository contains scripts for creating standalone mod packages that should only be installed manually. Such as - "jip ln", "xnvse", "istewie tweaks" and similar mods.
 
-Scripts work like this - at startup it recursive takes all files from a particular FOLDER with FOLDERS of mods and copies them into one united folder. Then the script calls the 7z archiver file and packs them (files) into an archive with the desired name.
-
 The second script with the corresponding name does the following - just unpack the archive into the game folder.
-
 
  <h3>IMPORTANT:</h3>
 
